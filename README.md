@@ -1,10 +1,10 @@
 Txemacoin integration/staging tree
 ================================
 
-http://www.txemacoin.org
+http://txemacoin.uk.to
 
-Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2013 Litecoin Developers
+Copyright (c) 2009-2018 Bitcoin Developers
+Copyright (c) 2011-2018 Litecoin Developers
 
 What is Txemacoin?
 ----------------
@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Txemacoin client sofware, see http://www.txemacoin.org.
+the Txemacoin client sofware, see http://txemacoin.uk.to.
 
 License
 -------
