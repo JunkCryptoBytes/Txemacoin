@@ -1,4 +1,4 @@
-![Alt text]txemacoin.uk.to/txm_logo.png "Logo")
+![alt text](http://txemacoin.uk.to/txm_logo.png "Logo")
 Txemacoin integration/staging tree
 ================================
 
