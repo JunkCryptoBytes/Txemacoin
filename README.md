@@ -1,4 +1,6 @@
-->![alt text](http://txemacoin.uk.to/txm_logo_m.png "Logo")<-
+<p align="center">
+  <img src="http://txemacoin.uk.to/txm_logo_m.png" title="Txemacoin Logo">
+</p>
 
 Txemacoin integration/staging tree
 ================================
