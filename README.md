@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="http://txemacoin.fr.to/txm_logo_m.png" title="Txemacoin Logo">
+  <img src="https://txemacoin.fr.to/txm_logo_m.png" title="Txemacoin Logo">
 </p>
 
 Txemacoin integration/staging tree
 ================================
 
-http://txemacoin.fr.to
+https://txemacoin.fr.to
 
 Copyright (c) 2009-2018 Bitcoin Developers
 Copyright (c) 2011-2018 Litecoin Developers
@@ -23,7 +23,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Txemacoin client sofware, see http://txemacoin.fr.to.
+the Txemacoin client sofware, see https://txemacoin.fr.to.
 
 License
 -------
