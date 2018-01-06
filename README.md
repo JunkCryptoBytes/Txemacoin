@@ -27,7 +27,8 @@ Txemacoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
 # Installation
-## Windows
+
+#### Windows
 #### Requirements and repository
 ```sh
 cd /mnt
@@ -76,3 +77,5 @@ cp /mnt/Txemacoin/files/windows/compile-txm.sh .
 /mnt/Txemacoin/release/Txemacoin-qt.exe
 ```
 
+#### Credits
+https://bitcointalk.org/index.php?topic=1080289.0
