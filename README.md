@@ -1,6 +1,6 @@
 [![N|Solid](https://txemacoin.vithar.me/txm_logo_m.png)](https://txemacoin.vithar.me/)
 # Txemacoin 
-https://txemacoin.fr.to
+https://txemacoin.vithar.me/
 
 Copyright (c) 2009-2018 Bitcoin Developers
 Copyright (c) 2011-2018 Litecoin Developers
